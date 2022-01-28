@@ -1,0 +1,74 @@
+---
+example.csv:
+  - QuotaAmount: 150000
+    StartDate: 01.01.2016
+    OwnerName: Chris Riley
+    Username: trailhead9.ub20k5i9t8ou@example.com
+  - QuotaAmount: 150000
+    StartDate: 01.02.2016
+    OwnerName: Chris Riley
+    Username: trailhead9.ub20k5i9t8ou@example.com
+  - QuotaAmount: 150000
+    StartDate: 01.03.2016
+    OwnerName: Chris Riley
+    Username: trailhead9.ub20k5i9t8ou@example.com
+  - QuotaAmount: 150000
+    StartDate: 01.01.2016
+    OwnerName: Harold Campbell
+    Username: trailhead14.jibpbwvuy67t@example.com
+  - QuotaAmount: 150000
+    StartDate: 01.02.2016
+    OwnerName: Harold Campbell
+    Username: trailhead14.jibpbwvuy67t@example.com
+  - QuotaAmount: 150000
+    StartDate: 01.03.2016
+    OwnerName: Harold Campbell
+    Username: trailhead14.jibpbwvuy67t@example.com
+  - QuotaAmount: 150000
+    StartDate: 01.01.2016
+    OwnerName: Jessica Nichols
+    Username: trailhead19.d1fxj2goytkp@example.com
+  - QuotaAmount: 150000
+    StartDate: 01.02.2016
+    OwnerName: Jessica Nichols
+    Username: trailhead19.d1fxj2goytkp@example.com
+  - QuotaAmount: 150000
+    StartDate: 01.03.2016
+    OwnerName: Jessica Nichols
+    Username: trailhead19.d1fxj2goytkp@example.com
+  - QuotaAmount: 150000
+    StartDate: 01.01.2016
+    OwnerName: Catherine Brown
+    Username: trailhead16.kojyepokybge@example.com
+  - QuotaAmount: 150000
+    StartDate: 01.02.2016
+    OwnerName: Catherine Brown
+    Username: trailhead16.kojyepokybge@example.com
+  - QuotaAmount: 150000
+    StartDate: 01.03.2016
+    OwnerName: Catherine Brown
+    Username: trailhead16.kojyepokybge@example.com
+  - QuotaAmount: 150000
+    StartDate: 01.01.2016
+    OwnerName: Kelly Frazier
+    Username: trailhead7.zdcsy4ax10mr@example.com
+  - QuotaAmount: 150000
+    StartDate: 01.02.2016
+    OwnerName: Kelly Frazier
+    Username: trailhead7.zdcsy4ax10mr@example.com
+  - QuotaAmount: 150000
+    StartDate: 01.03.2016
+    OwnerName: Kelly Frazier
+    Username: trailhead7.zdcsy4ax10mr@example.com
+  - QuotaAmount: 150000
+    StartDate: 01.01.2016
+    OwnerName: Dennis Howard
+    Username: trailhead4.wfokpckfroxp@example.com
+  - QuotaAmount: 150000
+    StartDate: 01.02.2016
+    OwnerName: Dennis Howard
+    Username: trailhead4.wfokpckfroxp@example.com
+  - QuotaAmount: 150000
+    StartDate: 01.03.2016
+    OwnerName: Dennis Howard
+    Username: trailhead4.wfokpckfroxp@example.com
